@@ -1,2 +1,4 @@
-# logging_data
-A Python utility for logging, storing, and backing up JSON and CSV data with date-based organization and dynamic CSV headers.
+- Added log class for saving unpublished and backup data in JSON and CSV formats.
+- Supports dynamic CSV headers and timestamp-based file naming.
+- Includes methods for tracking published/unpublished counts and calculating directory size.
+- Date-based folder organization for structured storage.
